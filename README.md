@@ -80,7 +80,3 @@ The system works as a **closed loop control system**:
 | Power Supply | 5V | System power |
 
 ---
-
-## 🔌 Circuit Diagram
-
-Add the circuit diagram image here.
